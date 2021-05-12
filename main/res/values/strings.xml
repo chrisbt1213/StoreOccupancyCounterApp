@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Store Occupancy Counter</string>
+    <string name="store_occupancy">Current Occupancy</string>
+    <string name="person_entering">Person Entering</string>
+    <string name="person_exiting">Person Exiting</string>
+    <string name="reset">RESET</string>
+</resources>
